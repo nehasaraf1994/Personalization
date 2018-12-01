@@ -5,6 +5,7 @@ The dataset used: Amazon - Movies and TV - ratings only.
 
 
 The dataset should be downloaded from the link : http://jmcauley.ucsd.edu/data/amazon/
+This is a public dataset but to get the full access to dataset, you should contact Julian McAuley(email : ude.dscu.gne@yeluacmj)
 
 The step to see the results for all the sample size is to run the main file for both the models. Main Files calls the model file and implement it for different traning and test sample.
 
