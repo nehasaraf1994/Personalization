@@ -1,4 +1,4 @@
-# Personalization
+# Recommendation Engine
 This project implements two collaborative filtering algorithms - Neighborhood based and Model based. 
 
 The dataset used: Amazon - Movies and TV - ratings only.
